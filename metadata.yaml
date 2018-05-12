@@ -1,0 +1,31 @@
+_repo: Text-Books-of-Art-Education-Book-IV--of-7-_38154
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38154-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Snow, Bonnie E.
+    deathdate: &id001 1925
+    gutenberg_agent_id: '38875'
+    url: http://www.gutenberg.org/2009/agents/38875
+  - agent_name: Froehlich, Hugo B.
+    birthdate: 1862
+    deathdate: *id001
+    gutenberg_agent_id: '38874'
+    url: http://www.gutenberg.org/2009/agents/38874
+description: ''
+gutenberg_issued: '2011-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art -- Study and teaching'
+- !lcsh 'Art -- Textbooks'
+title: Text books of art education, v. 4 of 7. Book IV, Fourth Year
+url: http://www.gutenberg.org/ebooks/38154
